@@ -1,7 +1,9 @@
 # Atmega1284p-USART
 
 This program basically prints out characters typed in the serial terminal.
-******SETTINGS********
+
+  **SETTINGS** 
+
 9600 baud rate for this chip (Atmega1284p)
 
 configurations include 
